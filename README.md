@@ -54,7 +54,7 @@
           <p/>
     <li>Una vez realizados todos estos pasos, solo nos quedará iniciar el terminal de visual, instalar los modulos npm mediante el comando "npm i" y después. Crear la base de datos, mediante "node .\src\database\createDB.js". Y simplemente, ejecutarla mediante el comando "npm run dev".
      
-    </li>
+  </li>
             <p/>
 </ol>
 </li>
