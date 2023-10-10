@@ -1,6 +1,6 @@
 <h1>InstaClone</h1>
 
-![InstaCloneLogo](https://github.com/Manuel080696/PruebasManu/blob/main/logo_final2.png)
+
 
 <h2>Rutas aplicadas</h2>
 
