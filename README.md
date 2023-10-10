@@ -46,9 +46,9 @@
       <p/>
 		<li>Una vez tengamos el repositorio descargado, deberemos ejecutarlo mediante algun compilador de código. En este ejemplo usaremos <a href="https://code.visualstudio.com/">visual studio code</a>, simplemente en la misma consola de git usada en el ejemplo anterior, primero accederemos a la carpeta mediante "cd PROYECTO_HACKABOSS_CLON_INSTAGRAM/". Y por último iniciaremos visual mediante el comando "code ."
     
-    </li>
+  </li>
         <p/>
-    <li>Deberemos renombrar el ".env.example" y a ".env", y en el colocar los datos de <a href="https://www.mysql.com/products/workbench/">workbench de sql</a>, la dirección del host, la clave <a href="https://sendgrid.com/">sendgrid</a> y su correo, el puerto que queremos elegir, clave secreta, etc: 
+  <li>Deberemos renombrar el ".env.example" y a ".env", y en el colocar los datos de <a href="https://www.mysql.com/products/workbench/">workbench de sql</a>, la dirección del host, la clave <a href="https://sendgrid.com/">sendgrid</a> y su correo, el puerto que queremos elegir, clave secreta, etc: 
     
   </li>
           <p/>
